@@ -1,4 +1,4 @@
-module github.com/panjf2000/gnet/v2
+module github.com/fly3366/gnet/v2
 
 go 1.16
 
