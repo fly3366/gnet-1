@@ -1,4 +1,4 @@
-module github.com/fly3366/gnet/v2
+module github.com/fly3366/gnet-1/v2
 
 go 1.16
 
